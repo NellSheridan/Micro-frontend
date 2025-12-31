@@ -1,2 +1,2 @@
 # Micro-frontend
-Angular moderno y Microfrontend
+Separación o representación técnica de un dominio o subdominio de negocio. 
